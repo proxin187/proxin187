@@ -6,20 +6,20 @@
  </br>
 <p align="center">
 <samp>
-I'm proxin, i live in norway and im 14 years old soon 15, im really into programming and sometimes i do i little bit of trolling .
+I'm proxin, i live in norway and im 14 years old soon 15, im really into programming and sometimes i do i little bit of trolling.
 </samp>
 </br></br>
 <samp>
-I started with programing about two years ago when i was 12, i always had a interest for computers but what really got me into programming was when i started to get interested in hacking/trolling and that elvolved into a interest for programming.
-</samp>
+I started with programing about two years ago when i was 12, i always had a interest for computers but what really got me into programming was when i started to get interested in hacking/trolling and that elvolved into a interest for programming. I also have a interest for music specificly memphis rap/phonk because it has a great underground scene and therefor there is not really alot of people in the scene so you usually start to recognize people in the comment sections and forums after a while in the scene.
+</samp> 
 </br></br>
 <samp>
-My skill set combines a formal education in statistics and quantitative methods and a passion for coding and computing. I am comfortable using a variety of machine learning tools, and my specialty lies in causal inference, NLP, and predictive modeling. However, I continue to be enthusiastic about developing my existing skills and expanding my knowledge of the field.
+I do not really have any computer science education and im not really shure if i want it because when you turn a hobby into something you have to do then its not the same anymore and its very fast to burnout and just give up ronnie mcnutt style.
 </samp>
 </p>
 <samp>
 <p align="center">
-<a href="mailto:paul@paulrjohnson.net">Email</a> | <a href="https://www.linkedin.com/in/paulj1989/">Linkedin</a> | <a href="https://twitter.com/paul_johnson89">Twitter</a> | <a href="https://paulrjohnson.net">Website</a>
+<a href="thugshaker627@gmail.com">Email</a> | <a href="https://soundcloud.com/jckmane/tracks">SoundCloud</a> | <a> Discord: Proxin#3389</a>
 </p>
 
 <br/>
@@ -27,15 +27,11 @@ My skill set combines a formal education in statistics and quantitative methods 
 
 <h2 align="center"><samp>Github Stats</samp></h2>
 
-<a href="https://github.com/paulj1989/github-readme-stats">
-  <img align="center" src="https://github-stats-51zyiojh0.vercel.app/api?username=paulj1989&bg_color=00000000&title_color=ff6e96&text_color=A5A5B6&hide_border=true&show_icons=false&count_private=true" />
+<a href="https://github.com/proxin187/github-readme-stats">
+  <img align="center" src="https://github-stats-51zyiojh0.vercel.app/api?username=proxin187&bg_color=00000000&title_color=ff6e96&text_color=A5A5B6&hide_border=true&show_icons=false&count_private=true" />
 </a>
 <a href="https://github.com/github-readme-stats">
-  <img align="center" src="https://github-stats-51zyiojh0.vercel.app/api/top-langs/?username=Paulj1989&bg_color=00000000&hide_border=true&title_color=ff6e96&text_color=A5A5B6&layout=compact" />
+  <img align="center" src="https://github-stats-51zyiojh0.vercel.app/api/top-langs/?username=proxin187&bg_color=00000000&hide_border=true&title_color=ff6e96&text_color=A5A5B6&layout=compact" />
 </a>
 
-------
-Credit: [Paul Johnson](https://github.com/Paulj1989)
-
-Last Edited on: 21/12/2020
 
