@@ -19,7 +19,7 @@ I do not really have any computer science education and im not really shure if i
 </p>
 <samp>
 <p align="center">
-<a href="thugshaker627@gmail.com">Email</a> | <a href="https://soundcloud.com/jckmane/tracks">SoundCloud</a> | <a> Discord: Proxin#3389</a>
+<a href="mailto: thugshaker627@gmail.com">Email</a> | <a href="https://soundcloud.com/jckmane/tracks">SoundCloud</a> | <a> Discord: Proxin#3389</a>
 </p>
 
 <br/>
