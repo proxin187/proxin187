@@ -6,11 +6,11 @@
  </br>
 <p align="center">
 <samp>
-I'm Paul. A social scientist from the UK transitioning out of academia to pursue a career in data science and research.
+I'm proxin, i live in norway and im 14 years old soon 15, im really into programming and sometimes i do i little bit of trolling .
 </samp>
 </br></br>
 <samp>
-As a political scientist, my research interests are centered around party and party system change, particularly the development of new political parties in established systems. However, I am broadly interested in applying machine learning techniques to modeling human behavior. Outside of social science, I am passionate about a variety of topics, one of which is sports analytics.
+I started with programing about two years ago when i was 12, i always had a interest for computers but what really got me into programming was when i started to get interested in hacking/trolling and that elvolved into a interest for programming.
 </samp>
 </br></br>
 <samp>
