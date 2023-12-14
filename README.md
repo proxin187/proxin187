@@ -6,7 +6,7 @@
  </br>
 <p align="center">
 <samp>
-I'm proxin, i live in norway and im 14 years old soon 15, im really into programming and sometimes i do i little bit of trolling.
+sus
 </samp>
 </br></br>
 <samp>
