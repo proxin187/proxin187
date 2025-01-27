@@ -17,6 +17,7 @@ Im a Rust developer from norway interested in low level development (javascript 
  - Operating System: Arch Linux with bspwm and polybar
  - Text Editor: Neovim with [cocvim](https://github.com/neoclide/coc.nvim) (i didnt bother to properly setup lsp through lua).
  - Terminal: [kitty](https://github.com/kovidgoyal/kitty)
+ - Keyboard Layout: [Colemak-DH](https://colemakmods.github.io/mod-dh/)
 
 
 <p align="center">
