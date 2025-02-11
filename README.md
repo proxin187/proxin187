@@ -18,6 +18,7 @@ Im a Rust developer from norway interested in low level development (javascript 
  - Text Editor: Neovim with [cocvim](https://github.com/neoclide/coc.nvim) (i didnt bother to properly setup lsp through lua).
  - Terminal: [kitty](https://github.com/kovidgoyal/kitty)
  - Keyboard Layout: [Colemak-DH](https://colemakmods.github.io/mod-dh/)
+ - Keyboard: [ZSA Voyager](https://zsa.io/voyager)
 
 
 <p align="center">
