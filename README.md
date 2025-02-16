@@ -8,7 +8,7 @@
 
 # About Me
 
-Im a Rust developer from norway interested in low level development (javascript soydevs fear me).
+Im a Rust developer interested in low level development (javascript soydevs fear me).
 
  - I love developing free and open source projects
  - Chronic [soyjak.party](https://soyjak.st) user
