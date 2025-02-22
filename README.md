@@ -1,17 +1,10 @@
 
 
-<div id="header" align="center">
-    <img src="https://soyjak.st/static/banners/57.gif"/>
-</div>
-
-<br>
-
 # About Me
 
 Im a Rust developer interested in low level development (javascript soydevs fear me).
 
  - I love developing free and open source projects
- - Chronic [soyjak.party](https://soyjak.st) user
 
 # Setup
  - Operating System: Arch Linux with bspwm and polybar
