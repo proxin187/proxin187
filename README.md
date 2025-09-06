@@ -3,7 +3,7 @@
 ## About Me
 Im a Rust developer interested in low level development (javascript soydevs fear me).
  - Systems developer.
- - Open Source Developer.
+ - Not an Open Source Developer.
  - [Retardmaxxing](https://www.retardmaxx.com/) enthusiast.
 
 ## Setup
