@@ -11,4 +11,6 @@ Im a Rust developer (javascript soydevs fear me).
  - Text Editor: Neovim with [cocvim](https://github.com/neoclide/coc.nvim).
  - Keyboard: [ZSA Voyager with Colemak-DH](https://configure.zsa.io/voyager/layouts/9BO3A/latest/0)
 
+Most software is focused on convenience, mine is focused on quality.
+
 
