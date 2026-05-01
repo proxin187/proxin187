@@ -1,16 +1,7 @@
+Hey, I do recreational programming during my free time, I don't have enough buzz-words to fill this entire sentence.
 
+I'm currently developing the [nixi](https://github.com/nixi-os) operating system, an experimental operating system written in rust focusing on simplicity. The end goal is a simple but usable unix-like OS.
 
-## About Me
-Im a Rust developer (javascript soydevs fear me).
- - Recreational programmer.
- - Systems developer.
- - [Retardmaxxing](https://www.retardmaxx.com/) enthusiast.
-
-## Setup
- - Operating system: [Artix Linux with runit](https://github.com/proxin187/artx)
- - Text Editor: Neovim with [cocvim](https://github.com/neoclide/coc.nvim).
- - Keyboard: [ZSA Voyager with Colemak-DH](https://configure.zsa.io/voyager/layouts/9BO3A/latest/0)
-
-Most software is focused on convenience, mine is focused on quality.
+I enjoy all kinds of low-level software development, abstractions are nice only when you have a proper understanding of whats underneath.
 
 
